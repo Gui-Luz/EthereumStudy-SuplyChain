@@ -1,3 +1,4 @@
 /.git
-/node-modules
+/node_modules
 guide.pdf
+.gitignore
